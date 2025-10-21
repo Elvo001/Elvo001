@@ -26,3 +26,5 @@
 
 ---
 
+### 🏆 GitHub Profile Trophy
+![Trophies](https://github-profile-trophy.vercel.app/?username=Elvo001&theme=onedark&column=6&margin-w=10&margin-h=10)
