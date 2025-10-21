@@ -1,30 +1,51 @@
-# 👋 Hi, I'm Elvis Omwega (Elvo001)
+# 👋 Hi, I'm **Elvis Omwega** (Elvo001)
 
-🚀 **Full-Stack Python & AI Engineer** building reproducible, automation-driven systems for research, fintech, and enterprise AI.
+**Full-Stack Python & AI Engineer** — I build automation-first systems end-to-end: data pipelines → ML/LLM workflows → API orchestration → Dockerized CI/CD on cloud.
 
-💡 **I specialize in:**
-- Designing **API-integrated automation pipelines** (FastAPI, Celery, Docker, GitHub Actions)
-- Building **LLM & ML workflows** (JAX/Flax, TensorFlow, Scikit-learn)
-- Deploying **reproducible environments** with containerized CI/CD for analytics and compliance systems
-- Developing **connector frameworks** that integrate REST and AI APIs into end-to-end automation solutions
+- 🔌 **Automation & Integration:** FastAPI/Flask • REST/GraphQL • Celery • Webhooks • JSON schema design
+- 🧠 **ML/LLM Workflows:** JAX/Flax, TensorFlow, HF Transformers • RAG & evaluation harnesses
+- 📦 **DevOps & Reproducibility:** Docker • GitHub Actions • versioned datasets & prompts
+- ☁️ **Cloud:** Azure • AWS • GCP
+- 📊 **Data Tooling:** Pandas/NumPy • Airflow • ADF • Dask • Power BI/Plotly
 
-🏗️ **Recent Work Highlights:**
-- Migrated TensorFlow pipelines → **JAX/Flax**, achieving 3× faster training throughput  
-- Built a **Multi-API automation pipeline** tuned to the World Bank’s Somalia Fisheries SESA dataset  
+### 🚀 Recent Highlights
+- Migrated TF pipelines → **JAX/Flax** with ~3× training throughput and cleaner reproducibility
+- Built **multi-API automation** for a World Bank program (ingestion/validation/analytics) with Dockerized CI/CD
 
-
-🧠 Currently exploring:
-> AI workflow orchestration
->
-> ---
-
-### 📊 GitHub Stats
-
-![Elvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvo001&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvo001&layout=compact&theme=radical&hide_border=true)
+### 🔭 Currently exploring
+Workflow agents • retrieval quality evaluation • cost-latency tradeoffs (quantization, caching, speculative decoding)
 
 ---
 
-### 🏆 GitHub Profile Trophy
-![Trophies](https://github-profile-trophy.vercel.app/?username=Elvo001&theme=onedark&column=6&margin-w=10&margin-h=10)
+## 📌 Featured Repos
+- `Python-Docker-CI-CD` – automated build/test/deploy with GitHub Actions  
+- `Expose-and-Query-a-workflow-API-in-GraphQL` – backend interface for orchestrated jobs  
+- `Jax-Flax-Tensorflow-Migration` – framework migration + perf wins  
+- `Multi-API-Automation-Pipeline-Tuned-to-KoboToolbox-Fisheries-Dataset` – real-world orchestration
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elvo001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvo001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvo001&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elvo001&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Elvo001&theme=tokyonight&utcOffset=3" />
+</p>
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Elvo001&theme=onedark&no-frame=true&margin-w=10&row=1&column=7" />
+</p>
+
+---
+
+## 🤝 Contact
+**Email:** elvisomwega@gmail.com • **Location:** Nairobi (UTC+3)
+
+<sub>⚡ Built with ❤️ by Elvis — automation > slide decks.</sub>
