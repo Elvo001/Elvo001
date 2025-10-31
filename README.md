@@ -56,8 +56,5 @@ Model reproducibility • ML pipeline automation • Multi-API orchestration •
 
 ---
 
-## 🤝 Contact
-**Email:** elvisomwega@gmail.com • **Location:** Nairobi (UTC+3)
 
-<sub>Built with ❤️ by Elvis — automation > slide decks.</sub>
 
