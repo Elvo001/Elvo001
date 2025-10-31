@@ -9,13 +9,13 @@
 ---
 
 ## 🔭 Recent Highlights
-- Migrated TF pipelines ➜ **JAX/Flax** with **3×** training throughput and cleaner reproducibility  
+- Migrated TensorFlow pipelines ➜ **JAX/Flax** with **3×** training throughput and cleaner reproducibility  
 - Built **multi-API automation** for a World Bank program (ingestion/validation/analytics) with Dockerized CI/CD  
 
 ---
 
 ## 🧪 Currently Exploring
-Workflow agents • retrieval quality evaluation • cost–latency tradeoffs (quantization, caching, speculative decoding)
+Workflow agents • Retrieval quality evaluation • Cost–latency tradeoffs (quantization, caching, speculative decoding)
 
 ---
 
@@ -42,10 +42,8 @@ Workflow agents • retrieval quality evaluation • cost–latency tradeoffs (q
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elvo001&theme=onedark&no-frame=true&margin-w=15&row=1&column=5&exclude=Stars,Star,stars,Followers,followers,Issues,issues" />
-</p>
+## 🧩 Interests
+Model reproducibility • ML pipeline automation • Multi-API orchestration • CI/CD for data workflows
 
 ---
 
@@ -53,3 +51,4 @@ Workflow agents • retrieval quality evaluation • cost–latency tradeoffs (q
 **Email:** elvisomwega@gmail.com • **Location:** Nairobi (UTC+3)
 
 <sub>Built with ❤️ by Elvis — automation > slide decks.</sub>
+
