@@ -40,7 +40,7 @@ Workflow agents • retrieval quality evaluation • cost-latency tradeoffs (qua
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elvo001&theme=onedark&no-frame=true&margin-w=10&row=1&column=7" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Elvo001&theme=onedark&no-frame=true&margin-w=15&row=1&column=5&exclude=Stars" />
 </p>
 
 ---
