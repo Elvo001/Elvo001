@@ -30,7 +30,7 @@ Workflow agents • Retrieval quality evaluation • Cost–latency tradeoffs (q
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elvo001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=stars,issues,prs,contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elvo001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,contribs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvo001&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 </p>
 
@@ -47,9 +47,11 @@ Model reproducibility • ML pipeline automation • Multi-API orchestration •
 ---
 
 ## 🤝 Contact
-**Email:** elvisomwega@gmail.com • **Location:** Nairobi (UTC+3)
+📧 **Email:** elvisomwega@gmail.com  
+📍 **Location:** Nairobi (UTC+3)
 
 <sub>Built with ❤️ by Elvis — automation > slide decks.</sub>
+
 
 
 ---
