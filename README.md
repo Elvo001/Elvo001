@@ -10,7 +10,7 @@
 
 ## 🔭 Recent Highlights
 - Migrated TensorFlow pipelines ➜ **JAX/Flax** with **3×** training throughput and cleaner reproducibility  
-- Built **multi-API automation** for a World Bank program (ingestion/validation/analytics) with Dockerized CI/CD  
+- Built **multi-API automation** for a World Bank analytics program using Dockerized CI/CD  
 
 ---
 
@@ -30,13 +30,12 @@ Workflow agents • Retrieval quality evaluation • Cost–latency tradeoffs (q
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elvo001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=stars" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvo001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elvo001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=stars,issues,prs,contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvo001&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvo001&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elvo001&theme=tokyonight&hide=stars,prs,issues" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Elvo001&theme=tokyonight&utcOffset=3" />
 </p>
 
@@ -44,6 +43,14 @@ Workflow agents • Retrieval quality evaluation • Cost–latency tradeoffs (q
 
 ## 🧩 Interests
 Model reproducibility • ML pipeline automation • Multi-API orchestration • CI/CD for data workflows
+
+---
+
+## 🤝 Contact
+**Email:** elvisomwega@gmail.com • **Location:** Nairobi (UTC+3)
+
+<sub>Built with ❤️ by Elvis — automation > slide decks.</sub>
+
 
 ---
 
