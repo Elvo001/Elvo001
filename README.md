@@ -4,7 +4,7 @@
 - **🧠 ML/LLM Workflows:** PyTorch, TensorFlow, HF Transformers • RAG & evaluation harnesses  
 - **🧪 DevOps & Reproducibility:** Docker • GitHub Actions • Versioned datasets & prompts  
 - **☁️ Cloud:** Azure • AWS • GCP  
-- **📊 Data Tooling:** Pandas/NumPy • Airflow • ADF • Dask • Power BI/Plotly
+- **📊 Data Tooling:** Pandas/NumPy • Airflow • ADF • Dask • Power BI/Plotly  
 
 ---
 
